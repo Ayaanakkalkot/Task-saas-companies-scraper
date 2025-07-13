@@ -119,21 +119,12 @@ Contains base data plus detailed profile information:
     "Founder Name": null,
     "Location": "France",
     "Industry": "Artificial Intelligence",
-    "detailed_profile": {
-      "employee_count": "50 employees",
-      "ceo_name": "John Doe",
-      "founded_year": "Founded in 2020",
-      "pricing_info": "$29/month",
-      "top_products": "AI-powered content creation",
-      "description": "SubMagic is an AI-powered...",
-      "social_links": {
-        "linkedin": "https://linkedin.com/company/submagic",
-        "twitter": "https://twitter.com/submagic"
-      },
-      "additional_metrics": {
-        "metric_0": "$8M ARR",
-        "metric_1": "150% growth"
-      }
+    "employee_count": "50 employees",
+    "ceo_name": "John Doe",
+    "founded_year": "Founded in 2020",
+    "pricing_info": "$29/month",
+    "top_products": "AI-powered content creation",
+    "description": "SubMagic is an AI-powered...", 
     }
   }
 ]
