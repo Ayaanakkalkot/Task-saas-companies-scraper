@@ -24,7 +24,7 @@ I have build a web scraper based on the task i have been assigned this inclueds 
 
 ### System Requirements
 - Python 3.7+
-- Chrome browser (for Selenium)
+- Chrome browser (for Selenium) - chromebrowser.exe file https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.94/win64/chrome-win64.zip
 - Windows/Linux/macOS
 
 ### Python Dependencies
