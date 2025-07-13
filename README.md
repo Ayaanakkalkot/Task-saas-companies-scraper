@@ -4,7 +4,7 @@ A comprehensive Python-based web scraper for extracting SaaS company information
 
 ## Project Overview
 
-This scraper is designed for the **Data Engineering Intern Task** at Zintlr. It extracts structured data from SaaS company listings and individual company profiles, handling pagination, missing data, and anti-bot measures gracefully.
+I have build a web scraper based on the task i have been assigned this inclueds perfectly scarping of 100 companies which handles pagination, missing values and also anit bots mechanism.
 
 ## Features
 
